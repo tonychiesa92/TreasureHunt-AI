@@ -15,4 +15,4 @@ The code I wrote completes the program for the intelligent agent so that it achi
 Computer scientists assist in providing users to access huge amounts of data that can be accessible. This is significant because it provides individuals with platform to create unique user experiences and interfaces for manipulating and accessing data. My approach to problem solving as a computer scientist is focusing on and managing the methodologies, techniques, and tools that help during each phase of the Software Development Life Cycle (SDLC).The way I address ethical concerns is during each stage of a development lifecycle is by being able to answer questions like is there consent to use data from users, are there safety and transparency measures in place, and are we doing everything we can to have algorithmic fairness, and is data privacy being taken into account?
 
 
-The files inculed in this repo are a zip to the entire project as well as the Jupyter Source File.
+The files inculed in this repo are a zip to the entire project as well as the individual files of the project, including the Jupyter Source File.
